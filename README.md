@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![Projecto Magic 8 Ball](https://user-images.githubusercontent.com/77897104/167878769-afa4bde5-5906-473e-9486-90b729fa1100.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
